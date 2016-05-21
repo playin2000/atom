@@ -48,6 +48,7 @@ class Color
         enumerable: true
         configurable: false
 
+
     @red = red
     @green = green
     @blue = blue
